@@ -18,7 +18,7 @@ This project is a solution to the **Readability** problem from the **CS50x Harva
 - **Language:** C
 - **Platform:** Command-line
 
---
+---
 
 ## 🧪 How It Works
 
@@ -30,7 +30,7 @@ Where:
 - `L` = average number of letters per 100 words  
 - `S` = average number of sentences per 100 words
 
---
+---
 
 ## ▶️ How to Run
 
