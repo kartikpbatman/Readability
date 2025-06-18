@@ -13,9 +13,8 @@
 ---
 ## 👉 This project was part as one of the problem set in CS50 course.
 
-## 🚀 Getting Started
 
-To view locally on your browser:
+🚀 To run the file on your PC:
 
 ```bash
 git clone https://github.com/kartikpbatman/Readability.git
